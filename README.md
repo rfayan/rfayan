@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi folks! I'm Rafael Fayan 👋
+
+I'm a software engineer from Campinas, Brazil! 🇧🇷
+
+I'm currently working as a Senior Software Engineer at [Hash](https://www.hash.com.br/en).
+
+You can find me on:
+
+- 🚀 [My website](https://rfayan.github.io/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/rafael-fayan/)
+- 💻 [Github (you are here)](https://github.com/rfayan/rfayan) 
 
 <!--
 **rfayan/rfayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
