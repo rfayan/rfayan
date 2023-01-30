@@ -1,8 +1,8 @@
 ### Hi folks! I'm Rafael Fayan 👋
 
-I'm a software engineer from Campinas, Brazil! 🇧🇷
+I'm a software engineer from Brazil 🇧🇷 living in Vancouver, Canada 🇨🇦.
 
-I'm currently working as a Senior Software Engineer at [Hash](https://www.hash.com.br/en).
+I'm currently working as a Software Engineer at [Coalition](https://www.coalitioninc.com).
 
 You can find me on:
 
